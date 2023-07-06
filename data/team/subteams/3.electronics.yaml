@@ -1,25 +1,33 @@
 members:
   - name: Samrat Chhabra 
     avatar: samrat.jpeg
+    leader: true
     social:
-      email: ec21b1021@iiidm.ac.in
+      email: samrat03122003@gmail.com
+      github: https://github.com/Samrat-03
+      linkedin: https://www.linkedin.com/in/samrat-chhabra-bb235b21a/
     subteam: Electronics
 
   - name: Aravind Ananthakrishnan 
     avatar: \Aravind.jpg
+    leader: true
     social:
-      email: ec21b1112@iiidm.ac.in
+      email: aravind.ananth03@gmail.com
+      github: https://github.com/AraRox
+      linkedin: https://www.linkedin.com/in/aravind-ananthakrishnan-7b1bb1232/
     subteam: Electronics 
 
-  - name: Thribhuvan Sunkavalli
+  - name: Jossan Eleazer
     avatar: thribhuvan.png
     social:
-      email: ec21b1093@iiidm.ac.in
+      email: jossaneden@gmail.com
     subteam: Electronics
 
   - name: Vashist Managari
     avatar: vashist.png
     social:
-      email: ec21b1038@iiitdm.ac.in
+      email: vashist10404@gmail.com
+      github: https://github.com/vashist22
+      linkedin: https://www.linkedin.com/in/vashist-managari-343a68222
     subteam: Electronics
 

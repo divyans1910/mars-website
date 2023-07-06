@@ -2,7 +2,15 @@ members:
   - name: Divya Nanduri
     avatar: divya.jpeg
     social:
+<<<<<<< HEAD
+<<<<<<< HEAD
+      email: dnanduri1910@gmail.com
+=======
       email: cs21b1050@iiitdm.ac.in
+>>>>>>> 6898193e4a2402ec0baeaf752ba5f311af1188f4
+=======
+      email: cs21b1050@iiitdm.ac.in
+>>>>>>> 6898193e4a2402ec0baeaf752ba5f311af1188f4
       linkedin: https://www.linkedin.com/in/divya-nanduri-a86608256
     subteam: Designer
   

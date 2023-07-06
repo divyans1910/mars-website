@@ -5,10 +5,18 @@ section:
     title: Our Team
 
 title: Meet the Team
-description: Meet the 26 minds behind these 6 wheels who work day and night for exploring the red planet.
+description: Meet the 20 minds behind these 6 wheels who work day and night for exploring the red planet.
 
 leader: Manas Narayan
+<<<<<<< HEAD
+<<<<<<< HEAD
+coLeader: Vashist Managari
+=======
 coLeader: Vashisht M
+>>>>>>> 6898193e4a2402ec0baeaf752ba5f311af1188f4
+=======
+coLeader: Vashisht M
+>>>>>>> 6898193e4a2402ec0baeaf752ba5f311af1188f4
 
 
 facultyAdvisor:

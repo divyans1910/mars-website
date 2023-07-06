@@ -1,19 +1,27 @@
 members:
+  - name: Manas Narayan 
+    avatar: manas.jpeg
+    role: Team Lead
+    social:
+      email: manasnarayan2023@gmail.com
+      linkedin: https://www.linkedin.com/in/manas-narayan-bb1723232/ 
+      github: https://github.com/ec21b1006
+    subteam: ROS Developers
+
   - name: Radhika Mittal
     avatar: radhika.png
-    role: Team Lead
     social:
       email: radhikamittal2000@gmail.com
       linkedin: radhika-mittal-6528901a0
       github: rad-mit
     subteam: ROS Developers
 
-  - name: Yash Kumar Sahu
+    - name: Yash Kumar Sahu
     avatar: yash.png
     social:
       email: ysahu262@outlook.com
       linkedin: yash-kumar-sahu-74a03a1b1
-    subteam: ROS Developers
+    subteam: ROS Developers, Treasurer
  
   - name: Vishnu Kumar
     avatar: Vishnu.png
@@ -26,45 +34,34 @@ members:
  
   - name: Jagadeeshan S
     avatar: Jagadeeshan.jpg
-    leader: true
     social:
-      email: jagdeeshanmsj@gmail.com
-      github: ms-jagadeeshan
-      linkedin: jagdeeshan
+      email: jagadeeshanmsj@protonmail.com
+      github: https://github.com/ms-jagadeeshan
+      linkedin: https://www.linkedin.com/in/jagadeeshan-s-b572b51b0/
     subteam: ROS Developers
 
-  - name: Pranav Yogesh
-    avatar: pranav.jpeg
+  - name: Vishal Kumar
+    avatar: 
     social:
-      email: pranavpy0@gmail.com
-    subteam: ROS Developers
-
-  - name: Tushar Panjeta
-    avatar: tushar.jpg
-    social:
-        email: cs20b1098@iiitdm.ac.in
-        github: tushar7770
-    subteam: ROS Developers
-
-  - name: Manas Narayan
-    avatar: manas.jpeg
-    social:
-      email: ec21b1006@iiitdm.ac.in
-      github: ec21b1006
-    subteam: ROS Developers
+        email: 
+        github: https://github.com/vi-ku
+        linkedin: https://www.linkedin.com/in/vi-ku/
+    subteam: Software Team Member
 
   - name: Vishnuram AV
     avatar: vishnuram.jpg
     social:
       email: avvishnuram@gmail.com
-      github:
+      github: https://github.com/corl0s
     subteam: ROS Developers
 
   - name: Sibi M
     avatar: sibi.jpg
+    leader: true
     social:
-      email: ec21b1042@iiitdm.ac.in
-      github: camelotsb
+      email: dynamist.sb@gmail.com
+      github: https://github.com/camelotsb
+      linkedin: https://www.linkedin.com/in/sibi-m-a85725228/
     subteam: ROS Developers
 
 

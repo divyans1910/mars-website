@@ -1,71 +1,35 @@
 members:
 
 
-  - name: Pullipudi Sri Sahil
-    avatar: Sahil.jpeg
+  - name: Saikat Paul 
+    avatar: 
     leader: true
     
     social:
-      email: srisahilp@gmail.com
-      linkedin: srisahilp
-    subteam: Mechanical
-
-  - name: Videsh.V.K
-    avatar: videsh.jpg
-    social:
-      email: me21b1026@iiitdm.ac.in
-      linkedin:  videsh-v-k-83354a186
+      email: saikatpaul2102@gmail.com
+      linkedin: www.linkedin.com/in/paul-717279258
     subteam: Mechanical
 
   - name: Adarsh Hariharan
     avatar: adarsh.jpeg
     social:
-      email: me20b1034@iiitdm.ac.in
-      linkedin: 
+      email: adarshhnair11@gmail.com 
+      linkedin: https://www.linkedin.com/in/adarsh-hariharan
     subteam: Mechanical
 
   - name: Sonam Prajapati
     avatar: sonam.jpg
     social:
-      email: me21b1016@iiitdm.ac.in
-      linkedin: sonam-prajapati-0018b724b
+      email: Sonamprajapati2802@gmail.com
+      linkedin: https://www.linkedin.com/in/sonam-prajapati-0018b724b
     subteam: Mechanical
 
-  - name: Pravin P A
-    avatar: pravin.jpg
+  - name: Pullipudi Sri Sahil
+    avatar: sahil.jpg
     social:
-      email: me21b1045@iiitdm.ac.in
-      linkedin: pravin-p-a-829781236
+      email: srisahilp@gmail.com
+      linkedin: https://www.linkedin.com/in/srisahilp
     subteam: Mechanical
-
-  - name: Siddharth Devarajan
-    avatar: \siddharth.jpg
-    social:
-      email: me21b1025@iiitdm.ac.in
-      linkedin:  
-    subteam: Mechanical
-
-  - name: Saikat Paul
-    avatar: saikat.jpeg
-    social:
-      email: me21b1008@iiitdm.ac.in
-      linkedin: 
-    subteam: Mechanical
-
-  - name: KSL Sanjana
-    avatar: sanjana.jpg
-    social:
-      email: sanjxksl@gmail.com
-      linkedin: sanjana-ksl-a525b8221
-    subteam: Mechanical
-
-  - name: Pranav P R
-    avatar: pranavpr.png
-    social:
-      email: me21b1064@iiitdm.ac.in
-      linkedin: pranavpr03
-    subteam: Mechanical
-
 
 
 

@@ -1,23 +1,4 @@
-members:
-  - name: Stuti Ghosh
-    avatar: Stuti.png
-    social:
-      email: 2001721077028@mcc.edu.in
-    subteam: Science Cache
-
-  - name: Suzanna Skaria Mathai
-    avatar: suzanna.jpeg
-    leader: true
-    social:
-      email: suzannajss@gmail.com
-    subteam: Science Cache
-
-  - name: Nitya Naomi Cherian
-    avatar: Nitya.png
-    social:
-      email: cheriannitya@gmail.com
-    subteam: Science Cache
-    
+members:  
   - name: Prashanth Mukesh Kumar L
     avatar: Prashanth.png
     social:
